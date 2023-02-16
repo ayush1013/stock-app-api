@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "user_name": "Gertrudis Tatterton",
+        "password": "",
+        "email": "gtatterton0@ehow.com"
+      }
+    ],
+
+    "companies":[
+        {
+            "id": "",
+            "company_logo": "",
+            "company_name": "",
+            "type": "",
+            "stock_exchange": "",
+            "total_shares": "",
+            "cost_per_share": "",
+            "price_action": ""
+        }
+    ]
+  }
