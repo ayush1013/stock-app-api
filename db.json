@@ -1,23 +1,37 @@
 {
-    "users": [
+    "Jobs": [
       {
-        "id": 1,
-        "user_name": "Gertrudis Tatterton",
-        "password": "",
-        "email": "gtatterton0@ehow.com"
+        "company": "Ellette",
+        "postedAt": "2021-03-30",
+        "city": "Gangtok",
+        "location": "American Samoa",
+        "role": "Frontend",
+        "level": "Junior",
+        "contract": "Full Time",
+        "position": " Backend Developer",
+        "language": "Javascript"
+      },
+      {
+        "company": "Jinny",
+        "postedAt": "2021-09-09",
+        "city": "Ludhiana",
+        "location": "Belgium",
+        "role": "FullStack",
+        "level": "Junior",
+        "contract": "Full Time",
+        "position": "Junior Frontend Developer",
+        "language": "Java"
+      },
+      {
+        "company": "TATA",
+        "postedAt": "2020-08-01",
+        "city": "Mumbai",
+        "location": "Maharastra",
+        "role": "Backend",
+        "level": "Senior",
+        "contract": "Full Time",
+        "position": "Senior Backend Developer",
+        "language": "Java"
       }
-    ],
-
-    "companies":[
-        {
-            "id": "",
-            "company_logo": "",
-            "company_name": "",
-            "type": "",
-            "stock_exchange": "",
-            "total_shares": "",
-            "cost_per_share": "",
-            "price_action": ""
-        }
     ]
   }
