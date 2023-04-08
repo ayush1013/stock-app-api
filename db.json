@@ -7,126 +7,116 @@
       "id": 1
     }
   ],
-  "movies": [
+  "books": [
 	{
-		"id" : 1,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 2,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	},
-  {
-		"id" : 3,
-		"poster" : "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg",
-		"title" : "Avengers Endgame",
-		"director" : "Joe Russo",
-		"year" : 2019,
-		"genre" : "Action",
-		"IMDB_Rating" : 8.4,
-		"ticket" : 350
-	},
-  {
-		"id" : 4,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Comedy",
-		"IMDB_Rating" : 7.8,
-		"ticket" : 200
+	  "image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+	  "book_name": "Design",
+	  "author": "Ayush",
+	  "genre": "Fiction",
+	  "edition": "2022",
+	  "publisher": "Bloomsbury",
+	  "cost": "920",
+	  "borrowed": false,
+	  "id": 11
 	},
 	{
-		"id" : 5,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Romance",
-		"IMDB_Rating" : 5.2,
-		"ticket" : 200
-	},
-  {
-		"id" : 6,
-		"poster" : "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg",
-		"title" : "Avengers Endgame",
-		"director" : "Joe Russo",
-		"year" : 2019,
-		"genre" : "Action",
-		"IMDB_Rating" : 9.4,
-		"ticket" : 350
-	},
-  {
-		"id" : 7,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6,
-		"ticket" : 200
+	  "image_url": "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
+	  "book_name": "My book edited",
+	  "author": "Piyush",
+	  "genre": "History",
+	  "edition": "2006",
+	  "publisher": "Bloomsbury",
+	  "cost": "700",
+	  "borrowed": false,
+	  "id": 7
 	},
 	{
-		"id" : 8,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.3,
-		"ticket" : 200
-	},
-  {
-		"id" : 9,
-		"poster" : "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg",
-		"title" : "Avengers Endgame",
-		"director" : "Joe Russo",
-		"year" : 2019,
-		"genre" : "Action",
-		"IMDB_Rating" : 8,
-		"ticket" : 350
-	},
-  {
-		"id" : 10,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Comedy",
-		"IMDB_Rating" : 5.7,
-		"ticket" : 200
+	  "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+	  "book_name": "Harry Porter",
+	  "author": "J. K. Rowling",
+	  "genre": "Business",
+	  "edition": "2023",
+	  "publisher": "Bloomsbury",
+	  "cost": "300",
+	  "borrowed": false,
+	  "id": 2
 	},
 	{
-		"id" : 11,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Romance",
-		"IMDB_Rating" : 5,
-		"ticket" : 200
+	  "image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+	  "book_name": "Designing",
+	  "author": "Ayush",
+	  "genre": "Tech",
+	  "edition": "fiction",
+	  "publisher": "Bloomsbury",
+	  "cost": "200",
+	  "borrowed": false,
+	  "id": 12
 	},
-  {
-		"id" : 12,
-		"poster" : "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg",
-		"title" : "Avengers Endgame",
-		"director" : "Joe Russo",
-		"year" : 2019,
-		"genre" : "Action",
-		"IMDB_Rating" : 2.0,
-		"ticket" : 350
-	}
-]
+	{
+	  "image_url": "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
+	  "book_name": "My book edited",
+	  "author": "Piyush",
+	  "genre": "Science",
+	  "edition": "2006",
+	  "publisher": "Bloomsbury",
+	  "cost": "100",
+	  "borrowed": false,
+	  "id": 79
+	},
+	{
+		"image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+		"book_name": "Design",
+		"author": "Ayush",
+		"genre": "Fiction",
+		"edition": "2022",
+		"publisher": "Bloomsbury",
+		"cost": "920",
+		"borrowed": false,
+		"id": 13
+	  },
+	  {
+		"image_url": "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
+		"book_name": "My book edited",
+		"author": "Piyush",
+		"genre": "History",
+		"edition": "2006",
+		"publisher": "Bloomsbury",
+		"cost": "700",
+		"borrowed": false,
+		"id": 16
+	  },
+	  {
+		"image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+		"book_name": "Harry Porter",
+		"author": "J. K. Rowling",
+		"genre": "Business",
+		"edition": "2023",
+		"publisher": "Bloomsbury",
+		"cost": "300",
+		"borrowed": false,
+		"id": 14
+	  },
+	  {
+		"image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+		"book_name": "Designing",
+		"author": "Ayush",
+		"genre": "Tech",
+		"edition": "fiction",
+		"publisher": "Bloomsbury",
+		"cost": "200",
+		"borrowed": false,
+		"id": 15
+	  },
+	  {
+		"image_url": "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
+		"book_name": "My book edited",
+		"author": "Piyush",
+		"genre": "Science",
+		"edition": "2006",
+		"publisher": "Bloomsbury",
+		"cost": "100",
+		"borrowed": false,
+		"id": 17
+	  }
+  ]
 }
